@@ -1,9 +1,10 @@
-<Insert Project Name Here>
+.github
 Copyright 2020 Optum
 
 Project Description:
 ====================
-<Short description of your project>
+This repository is used for org-level configuration for the Optum org.
 
 Author(s):
-<List the names and GitHub IDs of the original project authors>
+@amyschoen
+@brianwyka
